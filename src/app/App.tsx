@@ -9,6 +9,10 @@ import {
   Trash2, Settings, LogOut, Plus, Filter, Search,
   AlertCircle, MapPinned, Zap, ArrowRight, Star
 } from 'lucide-react';
+import { Award } from 'lucide-react';
+import Slider from 'react-slick';
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
 import { LineChart, Line, AreaChart, Area, BarChart, Bar, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend } from 'recharts';
 import { GradientBackground } from './components/GradientBackground';
 
